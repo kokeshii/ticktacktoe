@@ -1,3 +1,3 @@
 #ticktac
 
-##simple ticktactoe game programmed in Javascript.
+simple ticktactoe game in Javascript.
